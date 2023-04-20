@@ -37,10 +37,10 @@ Tamaño dispositivos móviles .\
 <img src="https://raw.githubusercontent.com/heltonsmith/tarea3/main/src/assets/img/evidencia6.jpg" />
 
 ### 9) Login de usuario - username: john | password: P4ssW0rd!#
-<img src="https://raw.githubusercontent.com/heltonsmith/tarea3/main/src/assets/img/evidencia7.jpg" />
+<img src="https://raw.githubusercontent.com/heltonsmith/tarea3/main/src/assets/img/evidencia8.jpg" />
 
 ### 10) Validación de usuarios existentes e inexitentes:
-<img src="https://raw.githubusercontent.com/heltonsmith/tarea3/main/src/assets/img/evidencia8.jpg" />
+<img src="https://raw.githubusercontent.com/heltonsmith/tarea3/main/src/assets/img/evidencia7.jpg" />
 
 ### 11) Perfil de usuario que inició sesión con posibilidad de cerrar sesión - con token y localstorage:
 <img src="https://raw.githubusercontent.com/heltonsmith/tarea3/main/src/assets/img/evidencia9.jpg" />
