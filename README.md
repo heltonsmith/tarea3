@@ -36,6 +36,8 @@ Tamaño dispositivos móviles .\
 ### 8) La app muestra el perfil del usuario:
 <img src="https://raw.githubusercontent.com/heltonsmith/tarea3/main/src/assets/img/evidencia6.jpg" />
 
+### ------------------ ACTUALIZACIÓN ------------------
+
 ### 9) Login de usuario - username: john | password: P4ssW0rd!#
 <img src="https://raw.githubusercontent.com/heltonsmith/tarea3/main/src/assets/img/evidencia8.jpg" />
 
