@@ -36,5 +36,21 @@ Tamaño dispositivos móviles .\
 ### 8) La app muestra el perfil del usuario:
 <img src="https://raw.githubusercontent.com/heltonsmith/tarea3/main/src/assets/img/evidencia6.jpg" />
 
+### ------------------ ACTUALIZACIÓN ------------------
+
+### 9) Login de usuario - username: john | password: P4ssW0rd!#
+<img src="https://raw.githubusercontent.com/heltonsmith/tarea3/main/src/assets/img/evidencia8.jpg" />
+
+### 10) Validación de usuarios existentes e inexitentes:
+<img src="https://raw.githubusercontent.com/heltonsmith/tarea3/main/src/assets/img/evidencia7.jpg" />
+
+### 11) Perfil de usuario que inició sesión con posibilidad de cerrar sesión - con token y localstorage:
+<img src="https://raw.githubusercontent.com/heltonsmith/tarea3/main/src/assets/img/evidencia9.jpg" />
+<img src="https://raw.githubusercontent.com/heltonsmith/tarea3/main/src/assets/img/evidencia10.jpg" />
+
+### 8) Buscador funcionando con filtros de textos en los posts traidos desde la API:
+<img src="https://raw.githubusercontent.com/heltonsmith/tarea3/main/src/assets/img/evidencia11.jpg" />
+
+
 ### Creado por Helton Bustos
 
