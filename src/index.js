@@ -24,8 +24,8 @@ function App() {
 
   const cerrarSession = (x) => {
     setLoginOk(x)
-    localStorage.setItem("token", "")
-    localStorage.setItem("usernameid", "")
+    localStorage.removeItem("token");
+    localStorage.removeItem("usernameid");
   }
 
   if(loginOk){
